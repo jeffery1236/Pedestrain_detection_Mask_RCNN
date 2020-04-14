@@ -1,6 +1,6 @@
-# Project Title
+# Image Detection and Segmentaion on Pedestrain dataset
 
-One Paragraph of project description goes here
+This project applies transfer learning on the Mask-RCNN model to train new detection and segmentation predictor heads on the Penn-Fudan Dataset for Pedestrain Detection and Segmentaion.
 
 ## Getting Started
 
